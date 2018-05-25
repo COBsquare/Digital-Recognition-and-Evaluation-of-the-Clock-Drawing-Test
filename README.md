@@ -1,0 +1,2 @@
+# Digital-Recognition-and-Evaluation-of-the-Clock-Drawing-Test
+Dementia affects the lives of millions of people. Digital recognition and evaluation of the Clock Drawing Test that is used for diagnosis will remove subjective manual evaluation and will increase the awareness and early diagnosis. The proposed system evaluates the clocks drawn to the paper and loaded to it by extracting their graphical features. Besides image processing methods, artificial neural networks are used to detect the numbers.
